@@ -2,6 +2,10 @@ import cv2
 import math
 import numpy as np
 
+# Author - Puneet Soni
+# Computer Vision Project - Image Object Detection
+# 
+
 class ColourBounds:
     def __init__(self, rgb):
         hsv = cv2.cvtColor(np.uint8([[[rgb[2], rgb[1], rgb[0]]]]), cv2.COLOR_BGR2HSV).flatten()
