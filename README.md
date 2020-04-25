@@ -8,10 +8,10 @@ First install the opencv python bindings with
 
 $ pip install opencv-python
 
-Then run the script with:
+Then run the script in your jupyter notebook:
 
-$ python feature_matching_test.py
+Feature Matching : feature_matching_test.ipynb
 
 The script will attempt to match the feature of query image in the input image.
 
-Total Execution time for feature matching of an image is 0.0567 seconds
+Total Execution time for feature matching of an image is <b>0.0567</b> seconds
