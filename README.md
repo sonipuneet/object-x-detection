@@ -10,6 +10,8 @@ $ pip install opencv-python
 
 Then run the script with:
 
-$ python object_detection.py
+$ python feature_matching_test.py
 
-The script will attempt to detect and label different objects.
+The script will attempt to match the feature of query image in the input image.
+
+Total Execution time for feature matching of an image is 0.0567 seconds
