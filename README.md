@@ -1,6 +1,6 @@
 # Image Object Detection using Feature Matching and Template Matching
 
-Goal - To identify objects of different categories within an image and differentitate between them based on their categories using the heuristic approach (Instead of machine learning approach).
+Goal - To identify objects of different categories within an image and differentitate between them based on their categories using the <b>heuristic approach</b> (Instead of machine learning approach).
 
 Usage:
 
@@ -10,7 +10,7 @@ $ pip install opencv-python
 
 Then run the script in your jupyter notebook:
 
-Feature Matching : feature_matching_test.ipynb
+Feature Matching : <b><i>feature_matching_test.ipynb</i></b>
 
 The script will attempt to match the feature of query image in the input image.
 
