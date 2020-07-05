@@ -1,6 +1,6 @@
 # Image Object Detection using Feature Matching and Template Matching
 
-Description: To identify objects of different categories within an image and differentitate between them based on their categories using the <b>heuristic approach</b> (Instead of deep learning approach).
+Description: To identify objects of different categories within an image and differentiate between them based on their categories using the <b>heuristic approach</b> (Instead of deep learning approach).
 
 Installation:
 
