@@ -14,7 +14,7 @@ The script will attempt to match the feature of query image in the input image.
 
 Total Execution time for feature matching of an image is <b>0.0567</b> seconds
 
-Application Of Feature Detection And Matching:
+Applications of object X detection using feature matching:
 
 <ol>
 	<li>Image retrieval and indexing</li>
