@@ -5,9 +5,9 @@ Description: To identify objects of different categories within an image and dif
 Installation:
 
 First install the opencv python bindings with
-
+```
 $ pip install opencv-python
-
+```
 Feature Matching : <b><i>feature_matching_test.ipynb</i></b>
 
 The script will attempt to match the feature of query image in the input image.
